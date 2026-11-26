@@ -1,0 +1,12 @@
+# Ace2025001
+
+> Open-source projects by Ace2025001. Main project: Antigravity Desktop 汉化包, the Simplified Chinese (zh-CN) language pack for the Google Antigravity 2.0 (反重力) Desktop standalone client on Windows x64 and Apple Silicon macOS.
+
+## Antigravity Desktop 汉化包
+
+- [Project llms.txt](https://ace2025001.github.io/antigravity-desktop-zhcn/llms.txt): summary, download, checksum and run commands
+- [AI agent install guide](https://github.com/Ace2025001/antigravity-desktop-zhcn/blob/main/docs/ai-install.md): one-block download, SHA-256 check, extract and install for Windows and macOS
+- [Repository](https://github.com/Ace2025001/antigravity-desktop-zhcn)
+- [Website / 安装教程](https://ace2025001.github.io/antigravity-desktop-zhcn/)
+
+User prompt that installs the pack with any AI agent: 帮我把 https://github.com/Ace2025001/antigravity-desktop-zhcn 安装到电脑上，按仓库里的 docs/ai-install.md 操作
